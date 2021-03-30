@@ -2,6 +2,7 @@
 # pylint: disable=missing-docstring
 
 morse_dict = {
+    "/": " ",
     ".-": "A",
     "-...": "B",
     "-.-.": "C",
